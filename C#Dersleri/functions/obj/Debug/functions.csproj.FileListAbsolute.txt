@@ -1,0 +1,7 @@
+C:\Users\intep\Desktop\C-Dersleri\C#Dersleri\functions\bin\Debug\functions.exe.config
+C:\Users\intep\Desktop\C-Dersleri\C#Dersleri\functions\bin\Debug\functions.exe
+C:\Users\intep\Desktop\C-Dersleri\C#Dersleri\functions\bin\Debug\functions.pdb
+C:\Users\intep\Desktop\C-Dersleri\C#Dersleri\functions\obj\Debug\functions.csproj.AssemblyReference.cache
+C:\Users\intep\Desktop\C-Dersleri\C#Dersleri\functions\obj\Debug\functions.csproj.CoreCompileInputs.cache
+C:\Users\intep\Desktop\C-Dersleri\C#Dersleri\functions\obj\Debug\functions.exe
+C:\Users\intep\Desktop\C-Dersleri\C#Dersleri\functions\obj\Debug\functions.pdb
