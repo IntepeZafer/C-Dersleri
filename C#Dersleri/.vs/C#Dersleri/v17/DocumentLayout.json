@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F33FE22A-3471-4C43-9700-EC2963990575}|functions\\functions.csproj|c:\\users\\intep\\desktop\\c-dersleri\\c#dersleri\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F33FE22A-3471-4C43-9700-EC2963990575}|functions\\functions.csproj|solutionrelative:functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4334769-5382-4603-A26F-E411BC978609}|EventsDemo\\EventsDemo.csproj|c:\\users\\intep\\desktop\\c-dersleri\\c#dersleri\\eventsdemo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4334769-5382-4603-A26F-E411BC978609}|EventsDemo\\EventsDemo.csproj|solutionrelative:eventsdemo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993B83B0-06B6-4300-972F-2D15C0A6D9E1}|Delegates\\Delegates.csproj|c:\\users\\intep\\desktop\\c-dersleri\\c#dersleri\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{993B83B0-06B6-4300-972F-2D15C0A6D9E1}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1795CA19-AF77-464C-9EB9-44202EE360D8}|Reflections\\Reflections.csproj|C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\reflections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1795CA19-AF77-464C-9EB9-44202EE360D8}|Reflections\\Reflections.csproj|solutionrelative:reflections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AFD2498-EC06-473D-AAD6-5F01B5584731}|Attributes\\Attributes.csproj|C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AFD2498-EC06-473D-AAD6-5F01B5584731}|Attributes\\Attributes.csproj|solutionrelative:attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4334769-5382-4603-A26F-E411BC978609}|EventsDemo\\EventsDemo.csproj|c:\\users\\intep\\desktop\\c-dersleri\\c#dersleri\\eventsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4334769-5382-4603-A26F-E411BC978609}|EventsDemo\\EventsDemo.csproj|solutionrelative:eventsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,52 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\functions\\Program.cs",
-              "RelativeDocumentMoniker": "functions\\Program.cs",
-              "ToolTip": "C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\functions\\Program.cs",
-              "RelativeToolTip": "functions\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\EventsDemo\\Product.cs",
+              "RelativeDocumentMoniker": "EventsDemo\\Product.cs",
+              "ToolTip": "C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\EventsDemo\\Product.cs",
+              "RelativeToolTip": "EventsDemo\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T15:28:37.982Z",
+              "WhenOpened": "2024-09-22T08:19:14.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\Delegates\\Program.cs",
-              "RelativeDocumentMoniker": "Delegates\\Program.cs",
-              "ToolTip": "C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\Delegates\\Program.cs",
-              "RelativeToolTip": "Delegates\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\EventsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EventsDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\EventsDemo\\Program.cs",
+              "RelativeToolTip": "EventsDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T18:19:01.668Z",
+              "WhenOpened": "2024-09-22T08:18:04.987Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\Reflections\\Program.cs",
-              "RelativeDocumentMoniker": "Reflections\\Program.cs",
-              "ToolTip": "C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\Reflections\\Program.cs",
-              "RelativeToolTip": "Reflections\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:50:37.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\Attributes\\Program.cs",
-              "RelativeDocumentMoniker": "Attributes\\Program.cs",
-              "ToolTip": "C:\\Users\\intep\\Desktop\\C-Dersleri\\C#Dersleri\\Attributes\\Program.cs",
-              "RelativeToolTip": "Attributes\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvywAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T18:55:52.126Z"
             }
           ]
         }
